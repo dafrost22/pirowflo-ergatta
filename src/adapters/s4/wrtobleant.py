@@ -78,6 +78,7 @@ class DataLogger(object):
                 'stroke_rate': 0,
                 'total_strokes': 0,
                 'total_distance_m': 0,
+                'distance': 0,
                 'instantaneous pace': 0,
                 'speed': 0,
                 'watts': 0,
@@ -98,6 +99,9 @@ class DataLogger(object):
         self.elapsetimeprevious = 0
 
     def on_rower_event(self, event):
+        if event['type'] != 'pulse' and event['type'] != 'error':
+            logger.debug(event)
+            #print(event)
         if event['type'] in IGNORE_LIST:
             return
         if event['type'] == 'stroke_start':
@@ -111,15 +115,19 @@ class DataLogger(object):
             self.WRValues.update({'total_strokes': event['value']})
         if event['type'] == 'total_distance_m':
             self.WRValues.update({'total_distance_m': (event['value'])})
+        if event['type'] == 'distance':
+            self.WRValues.update({'distance': (event['value'])})
+        if event['type'] == 'mph':
+            self.WRValues.update({'speed': (event['value'] * 0.44704)})
         if event['type'] == 'avg_distance_cmps':
             if event['value'] == 0:
                 self.WRValues.update({'instantaneous pace': 0})
-                self.WRValues.update({'speed':0})
+                # self.WRValues.update({'speed':0})
             else:
                 self.InstantaneousPace = (500 * 100) / event['value']
                 #print(self.InstantaneousPace)
                 self.WRValues.update({'instantaneous pace': self.InstantaneousPace})
-                self.WRValues.update({'speed':event['value']})
+                # self.WRValues.update({'speed':event['value']})
         if event['type'] == 'watts':
             self.Watts = event['value']
             self.avgInstaPowercalc(self.Watts)
