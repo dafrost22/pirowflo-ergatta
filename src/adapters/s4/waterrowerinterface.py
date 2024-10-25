@@ -77,8 +77,14 @@ logger = logging.getLogger(__name__)
 
 
 MEMORY_MAP = {
-              '057': {'type': 'distance_m', 'size': 'double', 'base': 16},
-              '081': {'type': 'total_distance_m', 'size': 'double', 'base': 16},
+              '054': {'type': 'ms_distance_dec', 'size': 'single', 'base': 16},
+              '055': {'type': 'ms_distance', 'size': 'double', 'base': 16},
+              '057': {'type': 'distance', 'size': 'double', 'base': 16},
+              '059': {'type': 'test_count', 'size': 'single', 'base': 16},
+              '080': {'type': 'total_distance_dec', 'size': 'single', 'base': 16},
+              '081': {'type': 'total_distance', 'size': 'double', 'base': 16},
+              '083': {'type': 'pins_per_xxcm', 'size': 'single', 'base': 16},
+              '084': {'type': 'distance_xxcm', 'size': 'single', 'base': 16},
               '140': {'type': 'total_strokes', 'size': 'double', 'base': 16},
               '088': {'type': 'watts', 'size': 'double', 'base': 16},
               '08A': {'type': 'total_kcal', 'size': 'triple', 'base': 16},
