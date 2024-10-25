@@ -1,287 +1,407 @@
-{'type': 'watts', 'value': 24, 'raw': 'IDD0880018', 'at': 1729818068540}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818068565}
-{'type': 'avg_distance_cmps', 'value': 71, 'raw': 'IDD14A0047', 'at': 1729818068593}
-rower {'stroke_rate': 64, 'total_strokes': 2, 'total_distance_m': 5, 'distance': 0, 'instantaneous pace': 16666, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
-{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818068644}
-{'type': 'display_sec', 'value': 4, 'raw': 'IDS1E104', 'at': 1729818068671}
-rower {'stroke_rate': 64, 'total_strokes': 2, 'total_distance_m': 5, 'distance': 0, 'instantaneous pace': 704, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818068748}
-{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818068751}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818068802}
-{'type': 'distance_m', 'value': 5, 'raw': 'IDD0570005', 'at': 1729818068905}
-{'type': 'total_strokes', 'value': 2, 'raw': 'IDD1400002', 'at': 1729818068957}
-{'type': 'watts', 'value': 24, 'raw': 'IDD0880018', 'at': 1729818068987}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818069015}
-{'type': 'avg_distance_cmps', 'value': 71, 'raw': 'IDD14A0047', 'at': 1729818069038}
-{'type': 'display_sec_dec', 'value': 2, 'raw': 'IDS1E002', 'at': 1729818069090}
-{'type': 'display_sec', 'value': 5, 'raw': 'IDS1E105', 'at': 1729818069116}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818069192}
-rower {'stroke_rate': 64, 'total_strokes': 2, 'total_distance_m': 5, 'distance': 0, 'instantaneous pace': 704, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 5}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818069247}
-{'type': 'total_strokes', 'value': 2, 'raw': 'IDD1400002', 'at': 1729818069402}
-{'type': 'watts', 'value': 24, 'raw': 'IDD0880018', 'at': 1729818069427}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818069455}
-{'type': 'avg_distance_cmps', 'value': 71, 'raw': 'IDD14A0047', 'at': 1729818069479}
-{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818069535}
-{'type': 'display_sec', 'value': 5, 'raw': 'IDS1E105', 'at': 1729818069561}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818069638}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818069694}
-{'type': 'distance_m', 'value': 5, 'raw': 'IDD0570005', 'at': 1729818069794}
-{'type': 'total_strokes', 'value': 2, 'raw': 'IDD1400002', 'at': 1729818069847}
-{'type': 'watts', 'value': 24, 'raw': 'IDD0880018', 'at': 1729818069872}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818069899}
-{'type': 'avg_distance_cmps', 'value': 71, 'raw': 'IDD14A0047', 'at': 1729818069925}
-{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818069956}
-{'type': 'display_sec_dec', 'value': 1, 'raw': 'IDS1E001', 'at': 1729818069978}
-{'type': 'display_sec', 'value': 6, 'raw': 'IDS1E106', 'at': 1729818070003}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818070081}
-rower {'stroke_rate': 64, 'total_strokes': 2, 'total_distance_m': 5, 'distance': 0, 'instantaneous pace': 704, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818070133}
-{'type': 'distance_m', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818070235}
-{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818070287}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818070312}
-rower {'stroke_rate': 64, 'total_strokes': 2, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 704, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818070341}
-{'type': 'avg_distance_cmps', 'value': 111, 'raw': 'IDD14A006F', 'at': 1729818070369}
-{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818070422}
-rower {'stroke_rate': 64, 'total_strokes': 3, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 704, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
-{'type': 'display_sec', 'value': 6, 'raw': 'IDS1E106', 'at': 1729818070451}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818070527}
-rower {'stroke_rate': 64, 'total_strokes': 3, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 450, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
-{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818070551}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818070581}
-{'type': 'distance_m', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818070684}
-{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818070735}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818070761}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818070786}
-{'type': 'avg_distance_cmps', 'value': 111, 'raw': 'IDD14A006F', 'at': 1729818070811}
-{'type': 'display_sec_dec', 'value': 9, 'raw': 'IDS1E009', 'at': 1729818070863}
-{'type': 'display_sec', 'value': 7, 'raw': 'IDS1E107', 'at': 1729818070888}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818070965}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818071019}
-rower {'stroke_rate': 64, 'total_strokes': 3, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 450, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'distance_m', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818071122}
-{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818071174}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818071201}
-{'type': 'avg_distance_cmps', 'value': 111, 'raw': 'IDD14A006F', 'at': 1729818071252}
-{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818071303}
-{'type': 'display_sec', 'value': 7, 'raw': 'IDS1E107', 'at': 1729818071331}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818071409}
-{'type': 'stroke_rate', 'value': 32, 'raw': 'IDS1A920', 'at': 1729818071460}
-{'type': 'distance_m', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818071562}
-{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818071579}
-{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818071615}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818071641}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818071667}
-{'type': 'avg_distance_cmps', 'value': 136, 'raw': 'IDD14A0088', 'at': 1729818071698}
-rower {'stroke_rate': 64, 'total_strokes': 4, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 450, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818071747}
-{'type': 'display_sec', 'value': 7, 'raw': 'IDS1E107', 'at': 1729818071774}
-rower {'stroke_rate': 64, 'total_strokes': 4, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'stroke_rate', 'value': 33, 'raw': 'IDS1A921', 'at': 1729818071902}
-{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818072000}
-{'type': 'distance_m', 'value': 12, 'raw': 'IDD057000C', 'at': 1729818072004}
-rower {'stroke_rate': 66, 'total_strokes': 4, 'total_distance_m': 8, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818072059}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818072083}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818072111}
-{'type': 'avg_distance_cmps', 'value': 136, 'raw': 'IDD14A0088', 'at': 1729818072134}
-rower {'stroke_rate': 66, 'total_strokes': 4, 'total_distance_m': 12, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'display_sec_dec', 'value': 3, 'raw': 'IDS1E003', 'at': 1729818072186}
-{'type': 'display_sec', 'value': 8, 'raw': 'IDS1E108', 'at': 1729818072211}
-rower {'stroke_rate': 66, 'total_strokes': 4, 'total_distance_m': 12, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818072289}
-{'type': 'stroke_rate', 'value': 33, 'raw': 'IDS1A921', 'at': 1729818072339}
-rower {'stroke_rate': 66, 'total_strokes': 4, 'total_distance_m': 12, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 8}
-{'type': 'distance_m', 'value': 12, 'raw': 'IDD057000C', 'at': 1729818072441}
-{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818072493}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818072522}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818072548}
-{'type': 'avg_distance_cmps', 'value': 136, 'raw': 'IDD14A0088', 'at': 1729818072573}
-{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818072626}
-{'type': 'display_sec', 'value': 8, 'raw': 'IDS1E108', 'at': 1729818072651}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818072731}
-{'type': 'stroke_rate', 'value': 33, 'raw': 'IDS1A921', 'at': 1729818072783}
-{'type': 'distance_m', 'value': 12, 'raw': 'IDD057000C', 'at': 1729818072889}
-{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818072941}
-{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818072967}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818072994}
-{'type': 'avg_distance_cmps', 'value': 136, 'raw': 'IDD14A0088', 'at': 1729818073017}
-{'type': 'display_sec_dec', 'value': 1, 'raw': 'IDS1E001', 'at': 1729818073074}
-{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818073079}
-{'type': 'display_sec', 'value': 9, 'raw': 'IDS1E109', 'at': 1729818073100}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818073178}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818073235}
-rower {'stroke_rate': 66, 'total_strokes': 4, 'total_distance_m': 12, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818073335}
-rower {'stroke_rate': 68, 'total_strokes': 4, 'total_distance_m': 12, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818073387}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818073414}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818073442}
-rower {'stroke_rate': 68, 'total_strokes': 4, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 367, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818073467}
-{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818073476}
-{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818073518}
-{'type': 'display_sec', 'value': 9, 'raw': 'IDS1E109', 'at': 1729818073544}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 25, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818073621}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818073672}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818073828}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818073853}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818073878}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818073905}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
-{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818073957}
-{'type': 'display_sec', 'value': 10, 'raw': 'IDS1E110', 'at': 1729818073983}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818074062}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818074113}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 10}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818074225}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818074303}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818074330}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818074359}
-{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818074411}
-{'type': 'display_sec', 'value': 10, 'raw': 'IDS1E110', 'at': 1729818074437}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818074513}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818074565}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818074669}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818074721}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818074748}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818074773}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818074799}
-{'type': 'display_sec_dec', 'value': 9, 'raw': 'IDS1E009', 'at': 1729818074858}
-{'type': 'display_sec', 'value': 11, 'raw': 'IDS1E111', 'at': 1729818074880}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818074958}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818075008}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 11}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818075115}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818075166}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818075193}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818075218}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818075244}
-{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818075301}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818075403}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818075453}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818075556}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818075615}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818075639}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818075665}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818075693}
-{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818075746}
-{'type': 'display_sec', 'value': 11, 'raw': 'IDS1E111', 'at': 1729818075771}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818075848}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818075900}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818076004}
-^C2024-10-24 21:01:16,034 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818076055}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818076080}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818076108}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818076140}
-{'type': 'display_sec_dec', 'value': 3, 'raw': 'IDS1E003', 'at': 1729818076192}
-{'type': 'display_sec', 'value': 12, 'raw': 'IDS1E112', 'at': 1729818076224}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818076315}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818076367}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 12}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818076472}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818076526}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818076559}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818076585}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818076611}
-{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818076670}
-{'type': 'display_sec', 'value': 12, 'raw': 'IDS1E112', 'at': 1729818076700}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818076779}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818076833}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818076936}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818076987}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818077015}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818077043}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818077075}
-{'type': 'display_sec', 'value': 13, 'raw': 'IDS1E113', 'at': 1729818077156}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818077234}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 13}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818077290}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818077392}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818077447}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818077475}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818077505}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818077531}
-{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818077583}
-{'type': 'display_sec', 'value': 13, 'raw': 'IDS1E113', 'at': 1729818077609}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818077691}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818077743}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818077849}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818077914}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818077943}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818077971}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818077998}
-{'type': 'display_sec_dec', 'value': 1, 'raw': 'IDS1E001', 'at': 1729818078050}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818078155}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818078206}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818078321}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818078375}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818078408}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818078436}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818078461}
-{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818078519}
-{'type': 'display_sec', 'value': 14, 'raw': 'IDS1E114', 'at': 1729818078551}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818078637}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818078689}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 14}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818078794}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818078846}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818078871}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818078897}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818078927}
-{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818078978}
-{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818079052}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818079080}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818079132}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818079244}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818079296}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818079327}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818079349}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818079375}
-{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818079429}
-{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818079451}
-{'type': 'display_sec', 'value': 15, 'raw': 'IDS1E115', 'at': 1729818079454}
-^C2024-10-24 21:01:19,468 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818079538}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818079591}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 26, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 15}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818079693}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818079751}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818079776}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818079828}
-{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818079881}
-{'type': 'display_sec', 'value': 16, 'raw': 'IDS1E116', 'at': 1729818079907}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 28, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 15}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818079984}
-rower {'stroke_rate': 68, 'total_strokes': 5, 'total_distance_m': 15, 'distance': 0, 'instantaneous pace': 263, 'speed': 0, 'watts': 28, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 16}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818080038}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818080144}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818080199}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818080222}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818080283}
-{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818080332}
-{'type': 'display_sec', 'value': 16, 'raw': 'IDS1E116', 'at': 1729818080359}
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818080436}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818080491}
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818080589}
-^C2024-10-24 21:01:20,628 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818080641}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818080667}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818080692}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818080719}
-{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818080770}
-{'type': 'display_sec', 'value': 16, 'raw': 'IDS1E116', 'at': 1729818080795}
-^C2024-10-24 21:01:20,826 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
-{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818080874}
-{'type': 'stroke_rate', 'value': 34, 'raw': 'IDS1A922', 'at': 1729818080924}
-^C2024-10-24 21:01:20,968 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
-{'type': 'distance_m', 'value': 15, 'raw': 'IDD057000F', 'at': 1729818081028}
-{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818081080}
-{'type': 'watts', 'value': 29, 'raw': 'IDD088001D', 'at': 1729818081105}
-{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818081130}
-{'type': 'avg_distance_cmps', 'value': 190, 'raw': 'IDD14A00BE', 'at': 1729818081157}
-{'type': 'display_sec_dec', 'value': 3, 'raw': 'IDS1E003', 'at': 1729818081207}
-{'type': 'display_sec', 'value': 17, 'raw': 'IDS1E117', 'at': 1729818081233}
+rower {'stroke_rate': 0, 'total_strokes': 0, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 0}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818665144}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818665171}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818665201}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818665223}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818665254}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818665279}
+2024-10-24 21:11:05,297 - adapters.ble.waterrowerble - INFO - GATT application registered
+2024-10-24 21:11:05,316 - adapters.ble.waterrowerble - INFO - Advertisement registered
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818665332}
+{'type': 'display_sec', 'value': 0, 'raw': 'IDS1E100', 'at': 1729818665359}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818665434}
+{'type': 'stroke_rate', 'value': 0, 'raw': 'IDS1A900', 'at': 1729818665486}
+{'type': 'distance', 'value': 28, 'raw': 'IDD057001C', 'at': 1729818665638}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818665741}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818665766}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818665794}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818665819}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818665847}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818665853}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818665872}
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818665924}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818666026}
+{'type': 'stroke_rate', 'value': 0, 'raw': 'IDS1A900', 'at': 1729818666077}
+{'type': 'distance', 'value': 28, 'raw': 'IDD057001C', 'at': 1729818666230}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818666333}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818666358}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818666384}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818666410}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818666435}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818666461}
+{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818666516}
+{'type': 'display_sec', 'value': 0, 'raw': 'IDS1E100', 'at': 1729818666541}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818666621}
+{'type': 'stroke_rate', 'value': 0, 'raw': 'IDS1A900', 'at': 1729818666672}
+{'type': 'distance', 'value': 28, 'raw': 'IDD057001C', 'at': 1729818666826}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818666929}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818666955}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818666981}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818667007}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818667033}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818667060}
+{'type': 'display_sec_dec', 'value': 2, 'raw': 'IDS1E002', 'at': 1729818667118}
+{'type': 'display_sec', 'value': 1, 'raw': 'IDS1E101', 'at': 1729818667144}
+rower {'stroke_rate': 0, 'total_strokes': 0, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 1}
+{'type': 'stroke_rate', 'value': 0, 'raw': 'IDS1A900', 'at': 1729818667279}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818667299}
+{'type': 'distance', 'value': 28, 'raw': 'IDD057001C', 'at': 1729818667428}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818667531}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818667557}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818667583}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818667609}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818667635}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818667665}
+{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818667717}
+{'type': 'display_sec', 'value': 1, 'raw': 'IDS1E101', 'at': 1729818667742}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818667820}
+{'type': 'stroke_rate', 'value': 0, 'raw': 'IDS1A900', 'at': 1729818667870}
+{'type': 'distance', 'value': 28, 'raw': 'IDD057001C', 'at': 1729818668024}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818668126}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818668152}
+{'type': 'total_strokes', 'value': 0, 'raw': 'IDD1400000', 'at': 1729818668177}
+{'type': 'watts', 'value': 0, 'raw': 'IDD0880000', 'at': 1729818668204}
+{'type': 'total_kcal', 'value': 1, 'raw': 'IDT08A000001', 'at': 1729818668235}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818668264}
+{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818668320}
+{'type': 'display_sec', 'value': 2, 'raw': 'IDS1E102', 'at': 1729818668346}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818668423}
+rower {'stroke_rate': 0, 'total_strokes': 0, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 2}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818668452}
+{'type': 'stroke_rate', 'value': 23, 'raw': 'IDS1A917', 'at': 1729818668476}
+{'type': 'distance', 'value': 3, 'raw': 'IDD0570003', 'at': 1729818668628}
+rower {'stroke_rate': 46, 'total_strokes': 0, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 2}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818668729}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818668754}
+{'type': 'total_strokes', 'value': 1, 'raw': 'IDD1400001', 'at': 1729818668782}
+{'type': 'watts', 'value': 22, 'raw': 'IDD0880016', 'at': 1729818668807}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818668839}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818668861}
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818668911}
+{'type': 'display_sec', 'value': 3, 'raw': 'IDS1E103', 'at': 1729818668938}
+rower {'stroke_rate': 46, 'total_strokes': 1, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 2}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818669016}
+rower {'stroke_rate': 46, 'total_strokes': 1, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 3}
+{'type': 'stroke_rate', 'value': 23, 'raw': 'IDS1A917', 'at': 1729818669067}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818669150}
+{'type': 'distance', 'value': 3, 'raw': 'IDD0570003', 'at': 1729818669226}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818669328}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818669354}
+{'type': 'total_strokes', 'value': 1, 'raw': 'IDD1400001', 'at': 1729818669382}
+{'type': 'watts', 'value': 22, 'raw': 'IDD0880016', 'at': 1729818669407}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818669432}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818669459}
+{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818669509}
+{'type': 'display_sec', 'value': 3, 'raw': 'IDS1E103', 'at': 1729818669536}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818669618}
+{'type': 'stroke_rate', 'value': 23, 'raw': 'IDS1A917', 'at': 1729818669669}
+{'type': 'distance', 'value': 3, 'raw': 'IDD0570003', 'at': 1729818669822}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818669923}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818669950}
+{'type': 'watts', 'value': 22, 'raw': 'IDD0880016', 'at': 1729818670002}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818670027}
+{'type': 'avg_distance_cmps', 'value': 0, 'raw': 'IDD14A0000', 'at': 1729818670052}
+{'type': 'display_sec_dec', 'value': 2, 'raw': 'IDS1E002', 'at': 1729818670103}
+{'type': 'display_sec', 'value': 4, 'raw': 'IDS1E104', 'at': 1729818670129}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818670205}
+rower {'stroke_rate': 46, 'total_strokes': 1, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 0, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
+{'type': 'stroke_rate', 'value': 23, 'raw': 'IDS1A917', 'at': 1729818670257}
+{'type': 'distance', 'value': 3, 'raw': 'IDD0570003', 'at': 1729818670410}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818670512}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818670537}
+{'type': 'total_strokes', 'value': 1, 'raw': 'IDD1400001', 'at': 1729818670567}
+{'type': 'watts', 'value': 22, 'raw': 'IDD0880016', 'at': 1729818670589}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818670615}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818670628}
+{'type': 'avg_distance_cmps', 'value': 109, 'raw': 'IDD14A006D', 'at': 1729818670642}
+{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818670694}
+{'type': 'display_sec', 'value': 4, 'raw': 'IDS1E104', 'at': 1729818670719}
+rower {'stroke_rate': 46, 'total_strokes': 1, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818670798}
+{'type': 'stroke_rate', 'value': 25, 'raw': 'IDS1A919', 'at': 1729818670847}
+rower {'stroke_rate': 50, 'total_strokes': 1, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
+{'type': 'distance', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818671001}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818671103}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818671129}
+{'type': 'total_strokes', 'value': 2, 'raw': 'IDD1400002', 'at': 1729818671155}
+{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818671180}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818671210}
+{'type': 'avg_distance_cmps', 'value': 109, 'raw': 'IDD14A006D', 'at': 1729818671236}
+rower {'stroke_rate': 50, 'total_strokes': 2, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 4}
+{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818671289}
+{'type': 'display_sec', 'value': 5, 'raw': 'IDS1E105', 'at': 1729818671316}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818671326}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818671393}
+{'type': 'stroke_rate', 'value': 25, 'raw': 'IDS1A919', 'at': 1729818671444}
+rower {'stroke_rate': 50, 'total_strokes': 2, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 5}
+{'type': 'distance', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818671597}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818671698}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818671725}
+{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818671777}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818671802}
+{'type': 'avg_distance_cmps', 'value': 109, 'raw': 'IDD14A006D', 'at': 1729818671827}
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818671878}
+{'type': 'display_sec', 'value': 6, 'raw': 'IDS1E106', 'at': 1729818671903}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818671981}
+{'type': 'stroke_rate', 'value': 25, 'raw': 'IDS1A919', 'at': 1729818672032}
+rower {'stroke_rate': 50, 'total_strokes': 2, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
+{'type': 'distance', 'value': 8, 'raw': 'IDD0570008', 'at': 1729818672184}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818672286}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818672313}
+{'type': 'total_strokes', 'value': 2, 'raw': 'IDD1400002', 'at': 1729818672338}
+{'type': 'watts', 'value': 27, 'raw': 'IDD088001B', 'at': 1729818672365}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818672394}
+{'type': 'avg_distance_cmps', 'value': 109, 'raw': 'IDD14A006D', 'at': 1729818672423}
+{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818672473}
+{'type': 'display_sec', 'value': 6, 'raw': 'IDS1E106', 'at': 1729818672498}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818672582}
+{'type': 'stroke_rate', 'value': 25, 'raw': 'IDS1A919', 'at': 1729818672633}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818672703}
+{'type': 'distance', 'value': 13, 'raw': 'IDD057000D', 'at': 1729818672789}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818672891}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818672917}
+{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818672943}
+{'type': 'watts', 'value': 30, 'raw': 'IDD088001E', 'at': 1729818672969}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818672995}
+{'type': 'avg_distance_cmps', 'value': 153, 'raw': 'IDD14A0099', 'at': 1729818673023}
+rower {'stroke_rate': 50, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 458, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
+{'type': 'display_sec_dec', 'value': 2, 'raw': 'IDS1E002', 'at': 1729818673073}
+rower {'stroke_rate': 50, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 326, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818673177}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818673228}
+rower {'stroke_rate': 52, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 326, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 6}
+{'type': 'distance', 'value': 13, 'raw': 'IDD057000D', 'at': 1729818673381}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818673426}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818673483}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818673509}
+{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818673538}
+{'type': 'watts', 'value': 30, 'raw': 'IDD088001E', 'at': 1729818673564}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818673589}
+{'type': 'avg_distance_cmps', 'value': 153, 'raw': 'IDD14A0099', 'at': 1729818673619}
+{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818673666}
+{'type': 'display_sec', 'value': 7, 'raw': 'IDS1E107', 'at': 1729818673692}
+rower {'stroke_rate': 52, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 326, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 7}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818673769}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818673819}
+{'type': 'distance', 'value': 13, 'raw': 'IDD057000D', 'at': 1729818673975}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818674077}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818674103}
+{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818674128}
+{'type': 'watts', 'value': 30, 'raw': 'IDD088001E', 'at': 1729818674157}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818674184}
+{'type': 'avg_distance_cmps', 'value': 153, 'raw': 'IDD14A0099', 'at': 1729818674209}
+{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818674261}
+{'type': 'display_sec', 'value': 8, 'raw': 'IDS1E108', 'at': 1729818674286}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818674363}
+rower {'stroke_rate': 52, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 326, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 8}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818674414}
+{'type': 'distance', 'value': 13, 'raw': 'IDD057000D', 'at': 1729818674568}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818674670}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818674695}
+{'type': 'total_strokes', 'value': 3, 'raw': 'IDD1400003', 'at': 1729818674721}
+{'type': 'watts', 'value': 30, 'raw': 'IDD088001E', 'at': 1729818674747}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818674773}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818674782}
+{'type': 'avg_distance_cmps', 'value': 176, 'raw': 'IDD14A00B0', 'at': 1729818674798}
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818674850}
+rower {'stroke_rate': 52, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 284, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 8}
+{'type': 'display_sec', 'value': 9, 'raw': 'IDS1E109', 'at': 1729818674875}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818674955}
+rower {'stroke_rate': 52, 'total_strokes': 3, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 284, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818675007}
+{'type': 'distance', 'value': 18, 'raw': 'IDD0570012', 'at': 1729818675159}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818675261}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818675287}
+{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818675312}
+{'type': 'watts', 'value': 31, 'raw': 'IDD088001F', 'at': 1729818675339}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818675370}
+rower {'stroke_rate': 52, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 284, 'speed': 0, 'watts': 0, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
+{'type': 'avg_distance_cmps', 'value': 176, 'raw': 'IDD14A00B0', 'at': 1729818675395}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818675425}
+{'type': 'display_sec_dec', 'value': 6, 'raw': 'IDS1E006', 'at': 1729818675451}
+{'type': 'display_sec', 'value': 9, 'raw': 'IDS1E109', 'at': 1729818675474}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818675551}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818675602}
+{'type': 'distance', 'value': 18, 'raw': 'IDD0570012', 'at': 1729818675754}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818675856}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818675882}
+{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818675907}
+{'type': 'watts', 'value': 31, 'raw': 'IDD088001F', 'at': 1729818675934}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818675962}
+{'type': 'avg_distance_cmps', 'value': 176, 'raw': 'IDD14A00B0', 'at': 1729818675988}
+{'type': 'display_sec_dec', 'value': 2, 'raw': 'IDS1E002', 'at': 1729818676040}
+{'type': 'display_sec', 'value': 10, 'raw': 'IDS1E110', 'at': 1729818676065}
+rower {'stroke_rate': 52, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 284, 'speed': 0, 'watts': 27, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 9}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818676144}
+rower {'stroke_rate': 52, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 284, 'speed': 0, 'watts': 27, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 10}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818676196}
+{'type': 'distance', 'value': 18, 'raw': 'IDD0570012', 'at': 1729818676349}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818676452}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818676478}
+{'type': 'total_strokes', 'value': 4, 'raw': 'IDD1400004', 'at': 1729818676503}
+{'type': 'watts', 'value': 31, 'raw': 'IDD088001F', 'at': 1729818676529}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818676559}
+{'type': 'avg_distance_cmps', 'value': 176, 'raw': 'IDD14A00B0', 'at': 1729818676583}
+{'type': 'display_sec_dec', 'value': 8, 'raw': 'IDS1E008', 'at': 1729818676635}
+{'type': 'display_sec', 'value': 10, 'raw': 'IDS1E110', 'at': 1729818676660}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818676740}
+{'type': 'stroke_rate', 'value': 26, 'raw': 'IDS1A91A', 'at': 1729818676791}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818676877}
+{'type': 'distance', 'value': 23, 'raw': 'IDD0570017', 'at': 1729818676948}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818677050}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818677076}
+{'type': 'watts', 'value': 32, 'raw': 'IDD0880020', 'at': 1729818677130}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818677155}
+{'type': 'avg_distance_cmps', 'value': 237, 'raw': 'IDD14A00ED', 'at': 1729818677181}
+{'type': 'display_sec_dec', 'value': 4, 'raw': 'IDS1E004', 'at': 1729818677232}
+{'type': 'display_sec', 'value': 11, 'raw': 'IDS1E111', 'at': 1729818677258}
+rower {'stroke_rate': 52, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 210, 'speed': 0, 'watts': 27, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 10}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818677335}
+rower {'stroke_rate': 52, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 210, 'speed': 0, 'watts': 27, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 11}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818677387}
+rower {'stroke_rate': 56, 'total_strokes': 4, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 210, 'speed': 0, 'watts': 27, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 11}
+{'type': 'distance', 'value': 23, 'raw': 'IDD0570017', 'at': 1729818677543}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818677644}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818677670}
+{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818677696}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818677701}
+{'type': 'watts', 'value': 32, 'raw': 'IDD0880020', 'at': 1729818677722}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818677750}
+rower {'stroke_rate': 56, 'total_strokes': 5, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 210, 'speed': 0, 'watts': 30, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 11}
+{'type': 'display_sec_dec', 'value': 0, 'raw': 'IDS1E000', 'at': 1729818677831}
+{'type': 'display_sec', 'value': 12, 'raw': 'IDS1E112', 'at': 1729818677855}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818677932}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818677982}
+rower {'stroke_rate': 56, 'total_strokes': 5, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 210, 'speed': 0, 'watts': 30, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 12}
+{'type': 'distance', 'value': 23, 'raw': 'IDD0570017', 'at': 1729818678136}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818678238}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818678264}
+{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818678290}
+{'type': 'watts', 'value': 32, 'raw': 'IDD0880020', 'at': 1729818678316}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818678342}
+{'type': 'avg_distance_cmps', 'value': 237, 'raw': 'IDD14A00ED', 'at': 1729818678369}
+{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818678419}
+{'type': 'display_sec', 'value': 12, 'raw': 'IDS1E112', 'at': 1729818678444}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818678521}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818678573}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818678827}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818678853}
+{'type': 'total_strokes', 'value': 5, 'raw': 'IDD1400005', 'at': 1729818678880}
+{'type': 'watts', 'value': 32, 'raw': 'IDD0880020', 'at': 1729818678907}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818678930}
+{'type': 'stroke_start', 'value': None, 'raw': 'SS', 'at': 1729818678954}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818678957}
+{'type': 'display_sec_dec', 'value': 1, 'raw': 'IDS1E001', 'at': 1729818679007}
+{'type': 'display_sec', 'value': 13, 'raw': 'IDS1E113', 'at': 1729818679033}
+rower {'stroke_rate': 56, 'total_strokes': 5, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 30, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 12}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818679109}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818679161}
+rower {'stroke_rate': 56, 'total_strokes': 5, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 30, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 13}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818679314}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818679418}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818679443}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818679468}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818679495}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818679522}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818679548}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 30, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 13}
+{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818679600}
+{'type': 'stroke_end', 'value': None, 'raw': 'SE', 'at': 1729818679601}
+{'type': 'display_sec', 'value': 13, 'raw': 'IDS1E113', 'at': 1729818679625}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818679752}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818679905}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818680008}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818680033}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818680059}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818680085}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818680110}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818680137}
+{'type': 'display_sec_dec', 'value': 3, 'raw': 'IDS1E003', 'at': 1729818680187}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 13}
+{'type': 'display_sec', 'value': 14, 'raw': 'IDS1E114', 'at': 1729818680212}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 14}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818680294}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818680346}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818680499}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818680652}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818680678}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818680703}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818680729}
+{'type': 'display_sec_dec', 'value': 9, 'raw': 'IDS1E009', 'at': 1729818680786}
+{'type': 'display_sec', 'value': 14, 'raw': 'IDS1E114', 'at': 1729818680811}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818680887}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818680939}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818681093}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818681194}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818681220}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818681246}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818681273}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818681328}
+{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818681379}
+{'type': 'display_sec', 'value': 15, 'raw': 'IDS1E115', 'at': 1729818681404}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818681481}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 15}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818681532}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818681684}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818681787}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818681812}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818681837}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818681863}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818681889}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818681915}
+{'type': 'display_sec_dec', 'value': 1, 'raw': 'IDS1E001', 'at': 1729818681965}
+{'type': 'display_sec', 'value': 16, 'raw': 'IDS1E116', 'at': 1729818681992}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818682069}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 16}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818682120}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818682272}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818682374}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818682401}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818682453}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818682479}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818682504}
+{'type': 'display_sec_dec', 'value': 7, 'raw': 'IDS1E007', 'at': 1729818682554}
+{'type': 'display_sec', 'value': 16, 'raw': 'IDS1E116', 'at': 1729818682581}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818682658}
+^C2024-10-24 21:11:22,661 - __main__ - INFO - Quit gracefully program has been interrupt externally - exiting
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818682711}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818682862}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818682964}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818682991}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818683016}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818683043}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818683068}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818683093}
+{'type': 'display_sec_dec', 'value': 3, 'raw': 'IDS1E003', 'at': 1729818683145}
+{'type': 'display_sec', 'value': 17, 'raw': 'IDS1E117', 'at': 1729818683170}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818683247}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 17}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818683298}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818683455}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818683557}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818683582}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818683608}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818683638}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818683663}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818683689}
+{'type': 'display_sec_dec', 'value': 9, 'raw': 'IDS1E009', 'at': 1729818683740}
+{'type': 'display_sec', 'value': 17, 'raw': 'IDS1E117', 'at': 1729818683767}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818683842}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818683894}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818684047}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818684150}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818684228}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818684253}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818684283}
+{'type': 'display_sec_dec', 'value': 5, 'raw': 'IDS1E005', 'at': 1729818684329}
+{'type': 'display_sec', 'value': 18, 'raw': 'IDS1E118', 'at': 1729818684354}
+rower {'stroke_rate': 56, 'total_strokes': 6, 'total_distance_m': 0, 'distance': 0, 'instantaneous pace': 202, 'speed': 0, 'watts': 31, 'total_kcal': 0, 'total_kcal_hour': 0, 'total_kcal_min': 0, 'heart_rate': 0, 'elapsedtime': 18}
+{'type': 'heart_rate', 'value': 0, 'raw': 'IDD1A00000', 'at': 1729818684435}
+{'type': 'stroke_rate', 'value': 28, 'raw': 'IDS1A91C', 'at': 1729818684489}
+{'type': 'distance', 'value': 29, 'raw': 'IDD057001D', 'at': 1729818684642}
+{'type': 'pins_per_xxcm', 'value': 32, 'raw': 'IDS08320', 'at': 1729818684745}
+{'type': 'distance_xxcm', 'value': 35, 'raw': 'IDS08423', 'at': 1729818684770}
+{'type': 'total_strokes', 'value': 6, 'raw': 'IDD1400006', 'at': 1729818684797}
+{'type': 'watts', 'value': 33, 'raw': 'IDD0880021', 'at': 1729818684822}
+{'type': 'total_kcal', 'value': 0, 'raw': 'IDT08A000000', 'at': 1729818684847}
+{'type': 'avg_distance_cmps', 'value': 247, 'raw': 'IDD14A00F7', 'at': 1729818684873}
