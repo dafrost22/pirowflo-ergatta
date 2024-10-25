@@ -113,10 +113,10 @@ class DataLogger(object):
         if event['type'] == 'total_strokes':
             self._StrokeTotal = event['value']
             self.WRValues.update({'total_strokes': event['value']})
-        if event['type'] == 'total_distance_m':
+        #if event['type'] == 'total_distance_m':
+        #    self.WRValues.update({'total_distance_m': (event['value'])})
+        if event['type'] == 'distance_m':
             self.WRValues.update({'total_distance_m': (event['value'])})
-        if event['type'] == 'distance':
-            self.WRValues.update({'distance': (event['value'])})
         if event['type'] == 'mph':
             self.WRValues.update({'speed': (event['value'] * 0.44704)})
         if event['type'] == 'avg_distance_cmps':
